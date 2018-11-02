@@ -1,5 +1,5 @@
 @echo off
-cd Project
-program.vbs
-ejector.vbs
-
+cd "Program"
+start program.vbs
+start ejector.vbs
+exit
